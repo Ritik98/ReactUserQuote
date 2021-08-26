@@ -1,5 +1,7 @@
 # ReactUserQuote
 
+This is a demo application where we can view some quotes and can also dive into special quotes. We can also add new quotes . It is a demo application with just client side application locally.
+
 # How to use
 
 First switch branches via the branch dropdown above the directory explorer.
